@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+{% include base_path %} -->
 
 1. Guo, Hailong; Zhang, Zhimin; Zou, Qingsong. A C0 Linear Finite Element Method for Biharmonic Problems. J. Sci. Comput. 74(3): 1397-1422 (March 2018) [pdf]()
 2. He, Wenming; Zhang, Zhimin; Zou, Qingsong. Maximum-norms error estimates for high-order finite volume schemes over quadrilateral meshes. Numer. Math. 138(2): 473-500 (February 2018) [pdf]()
@@ -54,6 +54,6 @@ author_profile: true
 41. Zou, Qingsong; Lei, Jingan. Bifurcation for subdifferential operator equations.Bifurcation theory & its numerical analysis (Xi'an, 1998), 216–227, Springer, Singapore, 1999 [pdf]()
 42. Zou, Qingsong; Tian, Yan; Lei, Jingan. Monotone iterative method for nonlinear discontinuous parabolic differential equations. Wuhan Univ. J. Nat. Sci. 3(4): 389-393 (December 1998) [pdf]()
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
