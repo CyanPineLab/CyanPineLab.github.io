@@ -83,7 +83,7 @@ author:
   name             : "Qingsong Zou"
   avatar           : "profile.png"
   bio              :
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           :
   googlescholar    :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  phone            : "13533649132"
 
 
 # Reading Files
