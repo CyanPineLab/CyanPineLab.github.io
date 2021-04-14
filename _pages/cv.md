@@ -20,7 +20,7 @@ Work experience
 ======
 * Sep. 1996–Feb. 1997   INRIA, Rennes, France
 * Jun. 2000–Dec. 2001   Chinese Academy of Science, Beijing, China
-* Jan. 2002–June 2003   West Viginia Univeristy, WV, USA
+* Jan. 2002–Jun. 2003   West Viginia Univeristy, WV, USA
 * Aug. 2003–Dec. 2012   Sun Yat-sen University, Guangzhou, Associate Professor
 * Jan. 2013---Present   Sun Yat-sen University, Guangzhou, Full Professor
   
