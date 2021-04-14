@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Sept. 1989–July 1993   Wuhan University, China, **Bachelor**
+* Sept. 1993–July 1995   Wuhan University, China, **Master**
+* Sept. 1995–July 1996   Universit´e de Rennes 1, Rennes, France, **DEA**
+* Sept. 1997–July 2000   Wuhan University, China, **Ph.D**
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 1996–Feb. 1997   INRIA, Rennes, France
+* June 2000–Dec. 2001    Chinese Academy of Science,Beijing, China
+* Jan. 2002–June 2003    West Viginia Univeristy, WV, USA
+* Aug. 2003–Dec. 2012    Sun Yat-sen University , Guangzhou, Associate Professor
+* Jan. 2013--Present     Sun Yat-sen University, Guangzhou, Full Professor
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
