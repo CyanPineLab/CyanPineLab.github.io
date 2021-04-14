@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Sept. 1989–July 1993   Wuhan University, China, **Bachelor**
-* Sept. 1993–July 1995   Wuhan University, China, **Master**
-* Sept. 1995–July 1996   Universit´e de Rennes 1, Rennes, France, **DEA**
-* Sept. 1997–July 2000   Wuhan University, China, **Ph.D**
+* Sep. 1989–Jul. 1993   Wuhan University, China, **Bachelor**
+* Sep. 1993–Jul. 1995   Wuhan University, China, **Master**
+* Sep. 1995–Jul. 1996   Universit´e de Rennes 1, Rennes, France, **DEA**
+* Sep. 1997–Jul. 2000   Wuhan University, China, **Ph.D**
 
 Work experience
 ======
-* Sept. 1996–Feb. 1997   INRIA, Rennes, France
-* June 2000–Dec. 2001    Chinese Academy of Science,Beijing, China
-* Jan. 2002–June 2003    West Viginia Univeristy, WV, USA
-* Aug. 2003–Dec. 2012    Sun Yat-sen University , Guangzhou, Associate Professor
-* Jan. 2013--Present     Sun Yat-sen University, Guangzhou, Full Professor
+* Sep. 1996–Feb. 1997   INRIA, Rennes, France
+* Jun. 2000–Dec. 2001   Chinese Academy of Science, Beijing, China
+* Jan. 2002–June 2003   West Viginia Univeristy, WV, USA
+* Aug. 2003–Dec. 2012   Sun Yat-sen University, Guangzhou, Associate Professor
+* Jan. 2013---Present   Sun Yat-sen University, Guangzhou, Full Professor
   
 <!-- Skills
 ======
