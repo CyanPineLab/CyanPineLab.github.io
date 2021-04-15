@@ -11,12 +11,6 @@ author_profile: true
 
 {% include base_path %} -->
 
-<!-- # 模板
-[]()
-authors
-publication
-[webpage]() / [bibtex]() -->
-
 ## 2021
 [Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations]()  
 Yanhui Zhou; **Qingsong Zou**.  
@@ -32,7 +26,7 @@ International Journal of Numerical Analysis & Modeling.
 
 [Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions]()  
 Advances in Computational Mathematics  
-[webpage]() / [bibtex]()  
+[webpage](https://link.springer.com/article/10.1007/s10444-020-09801-2) / [bibtex]()  
 <details>
 <summary>Abstract</summary>
 Local superconvergence properties of the post-processed finite volume element method (FVEM) are studied. Some interpolation/extrapolation post-processing techniques are applied to a class of $k$ th-order ($k\geq 2$) FVE solutions for elliptic equations. A local analysis tool for the finite volume method is developed to analyze the proposed method, and some superconvergence results are established. The theoretical findings are supported by several numerical experiments.
