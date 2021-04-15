@@ -98,6 +98,6 @@ He, Wenming; Zhang, Zhimin; **Qingsong Zou**. Maximum-norms error estimates for 
 40. **Qingsong Zou**; Lei, Jingan. Bifurcation for subdifferential operator equations.Bifurcation theory & its numerical analysis (Xi'an, 1998), 216–227, Springer, Singapore, 1999 [pdf]()
 41. **Qingsong Zou**; Tian, Yan; Lei, Jingan. Monotone iterative method for nonlinear discontinuous parabolic differential equations. Wuhan Univ. J. Nat. Sci. 3(4): 389-393 (December 1998) [pdf]()
 
-<!-- {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
