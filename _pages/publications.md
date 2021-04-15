@@ -18,11 +18,8 @@ author_profile: true
 
 ## 2018
 [A $C^0$ Linear Finite Element Method for Biharmonic Problems]()
-
 Hailong Guo; Zhimin Zhang; **Qingsong Zou**.
-
 J. Sci. Comput. 74(3): 1397-1422 (March 2018)
-
 [webpage]() / [bibtex]()
 
 He, Wenming; Zhang, Zhimin; **Qingsong Zou**. Maximum-norms error estimates for high-order finite volume schemes over quadrilateral meshes. Numer. Math. 138(2): 473-500 (February 2018) [pdf]()
