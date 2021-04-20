@@ -14,12 +14,14 @@ author_profile: true
 
 <h2>2021</h2>
 <a href='/publication/2021-zhou-locally'>
-Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.
+  <strong>
+    Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.
+  </strong>
 </a><br>
 Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
-International Journal of Numerical Analysis & Modeling. 
+<i>International Journal of Numerical Analysis & Modeling.</i>
 <a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>webpage</a><br>
-
+<br>
 <a href='/publication/2021-wu-finite'>
 Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.
 </a><br>
