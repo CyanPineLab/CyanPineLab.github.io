@@ -1,7 +1,7 @@
 ---
 title: "Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions"
 collection: publications
-permalink: /publication/he2020local
+permalink: /publication/2020-he-local
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2009-10-01
 # venue: 'Journal 1'
