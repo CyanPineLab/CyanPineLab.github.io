@@ -10,10 +10,31 @@ author_profile: true
 {% endif %}
 
 {% include base_path %} -->
+
+<!-- <a href='/publication/file'>
+  <strong>
+    Title.
+  </strong>
+</a>
+<br>
+A, <strong>Qingsong Zou</strong>.<br>
+<i>J. </i>
+<a href=''>[Link]</a><br>  -->
+
 <font face='Times New Roman'>
 
 <h2><font face='Times New Roman'>2021</font></h2>
 
+<!-- <a href='/publication/2021-wu-finite'> -->
+  <strong>
+  Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.
+  </strong>
+<!-- </a> -->
+<br>
+Hao Wu, Jinyong Ying, <strong>Qingsong Zou</strong>.<br>
+<i>International Journal of Numerical Analysis & Modeling.</i> (2021 Feb.)
+<a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-2-21/2021-02-03.pdf'>[Link]</a><br>
+<br>
 <!-- <a href='/publication/2021-zhou-locally'> -->
   <strong>
     Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.
@@ -21,49 +42,111 @@ author_profile: true
 <!-- </a> -->
 <br>
 Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
-<i>International Journal of Numerical Analysis & Modeling.</i>
-<a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>webpage</a><br>
-<br>
-<a href='/publication/2021-wu-finite'>
-  <strong>
-  Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.
-  </strong>
-</a><br>
-Hao Wu, Jinyong Ying, <strong>Qingsong Zou</strong>.<br>
-<i>International Journal of Numerical Analysis & Modeling. </i>
-<a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-2-21/2021-02-03.pdf'>webpage</a><br>
-
+<i>International Journal of Numerical Analysis & Modeling.</i> (2021 Jan.)
+<a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>[Link]</a><br>
 
 <h2><font face='Times New Roman'>2016-2020</font></h2>
 
-<a href='/publication/2020-he-local'>
-Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions.
-</a><br>
+<!-- <a href='/publication/2020-he-local'> -->
+  <strong>
+    Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions.
+  </strong>
+<!-- </a> -->
+<br>
 Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-Advances in Computational Mathematics.
-<a href='https://link.springer.com/article/10.1007/s10444-020-09801-2'>webpage</a><br>  
+<i>Advances in Computational Mathematics.</i> (2020 Jul.)
+<a href='https://link.springer.com/article/10.1007/s10444-020-09801-2'>[Link]</a><br>  
 
-<a href='/publication/2020-gong-locally'>
-Locally Conservative Finite Element Solutions for Parabolic Equations.
-</a><br>
+<!-- <a href='/publication/2020-gong-locally'> -->
+  <strong>
+    Locally Conservative Finite Element Solutions for Parabolic Equations.
+  </strong>
+<!-- </a> -->
+<br>
 Wenbo Gong, <strong>Qingsong Zou</strong>.<br>
-International Journal of Numerical Analysis & Modeling. 
-<a href='http://www.math.ualberta.ca/ijnam/Volume-17-2020/No-5-20/2020-05-04.pdf'>webpage</a><br>  
+<i>International Journal of Numerical Analysis & Modeling. </i> (2020 May)
+<a href='http://www.math.ualberta.ca/ijnam/Volume-17-2020/No-5-20/2020-05-04.pdf'>[Link]</a><br>  
 
+<a href='/publication/file'>
+  <strong>
+    A $C^0$ Linear Finite Element Method for Biharmonic Problems.
+  </strong>
+</a>
+<br>
+Hailong Guo, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Scientific Computing.</i> (2018 March)
+<a href=''>[Link]</a><br> 
 
-[A $C^0$ Linear Finite Element Method for Biharmonic Problems]()  
-Hailong Guo, Zhimin Zhang, **Qingsong Zou**.  
-J. Sci. Comput. 74(3): 1397-1422 (March 2018)  
-[webpage]() / [bibtex]()
+<a href='/publication/file'>
+  <strong>
+    Maximum-Norms Error Estimates for High-Order Finite Volume Schemes over Quadrilateral Meshes.
+  </strong>
+</a>
+<br>
+Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Numerische Mathematik.</i> (2018 Feb.)
+<a href=''>[Link]</a><br> 
 
-He, Wenming, Zhang, Zhimin, **Qingsong Zou**. Maximum-norms error estimates for high-order finite volume schemes over quadrilateral meshes. Numer. Math. 138(2): 473-500 (February 2018) [pdf]()
+<a href='/publication/file'>
+  <strong>
+    Correction to: Superconvergence of Immersed Finite Volume Methods for One-Dimensional Interface Problems.
+  </strong>
+</a>
+<br>
+Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Scientific Computing.</i>
+<a href=''>[Link]</a><br> 
 
-1. Cao, Waixiang, Zhang, Xu, Zhang, Zhimin, **Qingsong Zou**. Correction to: Superconvergence of Immersed Finite Volume Methods for One-Dimensional Interface Problems. J. Sci. Comput. 73(2-3): 543-565 (December 2017) [pdf]()
-2. **Qingsong Zou**, Guo, Li, Deng Quanling. High Order Continuous Local-Conserving Fluxes and Finite-Volume-Like Finite Element Solutions for Elliptic Equations. SIAM J. Numer. Anal. 55(6): 2666-2686 (November 2017) [pdf]()
-3. Cao, Waixiang, Zhang, Xu, Zhang, Zhimin, **Qingsong Zou**. Superconvergence of immersed finite volume methods for one-dimensional interface problems. J. Sci. Comput. 73(2-3): 543–565 (July 2017) [pdf]()
-4. Zhang, Shangyou, Zhang, Zhimin, **Qingsong Zou**. A postprocessed flux conserving finite element solution. Numer. Methods Partial Differential Equations 33(6): 1859–1883(May 2017) [pdf]()
-5. Zhou, Yanhui, **Qingsong Zou**. A novel adaptive finite volume method for elliptic equations. Int. J. Numer. Anal. Model. 14(6): 879–892 (2017) [pdf]()
-6. He, Wen-ming, Zhang, Zhimin, **Qingsong Zou**. Ultraconvergence of high order FEMs for elliptic problems with variable coefficients. Numer. Math. 136(1): 215-248 (May 2017) [pdf]()
+<a href='/publication/file'>
+  <strong>
+    High Order Continuous Local-Conserving Fluxes and Finite-Volume-Like Finite Element Solutions for Elliptic Equations.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>, Li Guo, Quanling Deng.<br>
+<i>SIAM Journal on Numerical Analysis.</i> (2017 Nov.)
+<a href=''>[Link]</a><br> 
+
+<a href='/publication/file'>
+  <strong>
+    Superconvergence of Immersed Finite Volume Methods for One-Dimensional Interface Problems.
+  </strong>
+</a>
+<br>
+Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Scientific Computing.</i> (2017 Jul.)
+<a href=''>[Link]</a><br>
+
+<a href='/publication/file'>
+  <strong>
+    A Novel Adaptive Finite Volume Method for Elliptic Equations.
+  </strong>
+</a>
+<br>
+Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
+<i>International Journal of Numerical Analysis & Modeling.</i> (2017 Jun.)
+<a href=''>[Link]</a><br> 
+
+<a href='/publication/file'>
+  <strong>
+    A Postprocessed Flux Conserving Finite Element Solution.
+  </strong>
+</a>
+<br>
+Shangyou Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Numerical Methods for Partial Differential Equations.</i> (2017 May)
+<a href=''>[Link]</a><br> 
+
+<a href='/publication/file'>
+  <strong>
+    Ultraconvergence of High Order FEMs for Elliptic Problems with Variable Coefficients.
+  </strong>
+</a>
+<br>
+Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i> Numerische Mathematik.</i> (2017 May)
+<a href=''>[Link]</a><br> 
+
 7. **Qingsong Zou**. An unconditionally stable quadratic finite volume scheme over triangular meshes for elliptic equations. J. Sci. Comput. 70(1): 112-124 (January 2017) [pdf]()
 9.  Lin, Yanping, **Qingsong Zou**. Superconvergence analysis of the MAC scheme for the two dimensional Stokes problem. Numer. Methods Partial Differential Equations 32(6): 1647-1666 (April 2016) [pdf]()
 10. Chen, Hongtao, Zhang, Zhimin, **Qingsong Zou**. A recovery based linear finite element method for 1D bi-harmonic problems. J. Sci. Comput. 68(1): 375-394 (July 2016) [pdf]()
