@@ -12,24 +12,30 @@ author_profile: true
 {% include base_path %} -->
 <font face='Times New Roman'>
 
-<h2>2021</h2>
-<a href='/publication/2021-zhou-locally'>
+<h2><font face='Times New Roman'>2021</font></h2>
+
+<!-- <a href='/publication/2021-zhou-locally'> -->
   <strong>
     Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.
   </strong>
-</a><br>
+<!-- </a> -->
+<br>
 Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
 <i>International Journal of Numerical Analysis & Modeling.</i>
 <a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>webpage</a><br>
 <br>
 <a href='/publication/2021-wu-finite'>
-Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.
+  <strong>
+  Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.
+  </strong>
 </a><br>
 Hao Wu, Jinyong Ying, <strong>Qingsong Zou</strong>.<br>
-International Journal of Numerical Analysis & Modeling. 
+<i>International Journal of Numerical Analysis & Modeling. </i>
 <a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-2-21/2021-02-03.pdf'>webpage</a><br>
 
-<h2>2016-2020</h2>
+
+<h2><font face='Times New Roman'>2016-2020</font></h2>
+
 <a href='/publication/2020-he-local'>
 Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions.
 </a><br>
@@ -52,9 +58,6 @@ J. Sci. Comput. 74(3): 1397-1422 (March 2018)
 
 He, Wenming, Zhang, Zhimin, **Qingsong Zou**. Maximum-norms error estimates for high-order finite volume schemes over quadrilateral meshes. Numer. Math. 138(2): 473-500 (February 2018) [pdf]()
 
-## 2017
-
-
 1. Cao, Waixiang, Zhang, Xu, Zhang, Zhimin, **Qingsong Zou**. Correction to: Superconvergence of Immersed Finite Volume Methods for One-Dimensional Interface Problems. J. Sci. Comput. 73(2-3): 543-565 (December 2017) [pdf]()
 2. **Qingsong Zou**, Guo, Li, Deng Quanling. High Order Continuous Local-Conserving Fluxes and Finite-Volume-Like Finite Element Solutions for Elliptic Equations. SIAM J. Numer. Anal. 55(6): 2666-2686 (November 2017) [pdf]()
 3. Cao, Waixiang, Zhang, Xu, Zhang, Zhimin, **Qingsong Zou**. Superconvergence of immersed finite volume methods for one-dimensional interface problems. J. Sci. Comput. 73(2-3): 543–565 (July 2017) [pdf]()
@@ -62,8 +65,6 @@ He, Wenming, Zhang, Zhimin, **Qingsong Zou**. Maximum-norms error estimates for 
 5. Zhou, Yanhui, **Qingsong Zou**. A novel adaptive finite volume method for elliptic equations. Int. J. Numer. Anal. Model. 14(6): 879–892 (2017) [pdf]()
 6. He, Wen-ming, Zhang, Zhimin, **Qingsong Zou**. Ultraconvergence of high order FEMs for elliptic problems with variable coefficients. Numer. Math. 136(1): 215-248 (May 2017) [pdf]()
 7. **Qingsong Zou**. An unconditionally stable quadratic finite volume scheme over triangular meshes for elliptic equations. J. Sci. Comput. 70(1): 112-124 (January 2017) [pdf]()
-
-## 2016
 9.  Lin, Yanping, **Qingsong Zou**. Superconvergence analysis of the MAC scheme for the two dimensional Stokes problem. Numer. Methods Partial Differential Equations 32(6): 1647-1666 (April 2016) [pdf]()
 10. Chen, Hongtao, Zhang, Zhimin, **Qingsong Zou**. A recovery based linear finite element method for 1D bi-harmonic problems. J. Sci. Comput. 68(1): 375-394 (July 2016) [pdf]()
 11. Guo, Hailong, Zhang, Zhimin, Zhao, Ren, **Qingsong Zou**. Polynomial preserving recovery on boundary. J. Comput. Appl. Math. 307: 119-133 (December 2016) [pdf]()
@@ -71,7 +72,7 @@ He, Wenming, Zhang, Zhimin, **Qingsong Zou**. Maximum-norms error estimates for 
 13. Lai, Zhigang, Wu, Bin, **Qingsong Zou**. Finite volume method on hybrid meshes for coastal ocean model. Int. J. Numer. Anal. Model. 13: 310-317 (February 2016)[pdf]()
 14. Jin, Guanghao, Li, Hengguang, Zhang, Qinghui, **Qingsong Zou**. Linear and quadratic finite volume methods on triangular meshes for elliptic equations with singular solutions. Int. J. Numer. Anal. Model. 13(2): 244-264 (2016) [pdf]()
 
-<h2>2011-2015</h2>
+<h2><font face='Times New Roman'>2011-2015</font></h2>
 
 15. Lin, Yanping, Yang, Min, **Qingsong Zou**. L2 error estimates for a class of any order finite volume schemes over quadrilateral meshes. SIAM J. Numer. Anal. 53(4): 2030-2050 (August 2015) [pdf]()
 16. Zhang, Zhimin, **Qingsong Zou**. Vertex-centered finite volume schemes of any order over quadrilateral meshes for elliptic boundary value problems. Numer. Math. 130(2): 363-393 (June 2015) [pdf]()
@@ -90,13 +91,13 @@ He, Wenming, Zhang, Zhimin, **Qingsong Zou**. Maximum-norms error estimates for 
 29. **Qingsong Zou**. Efficient and reliable hierarchical error estimates for an elliptic obstacle problem. Appl. Numer. Math. 61(3): 344-355 (October 2011) [pdf]()
 30. Ralf Kornhuber, **Qingsong Zou**. Efficient and reliable hierarchical error estimates for the discretization error of elliptic obstacle problems. Math. Comp. 80(273): 69-88 (January 2011) [pdf]()
 
-<h2>2006-2010</h2>
+<h2><font face='Times New Roman'>2006-2010</font></h2>
 
 31. **Qingsong Zou**. Hierarchical error estimates for finite volume approximation solution of elliptic equations. Appl. Numer. Math. 60(1-2): 142-153 (February 2010) [pdf]()
 32. Zou, Qing Song. Adaptive methods without marking oscillation for general elliptic equations. (Chinese) Numer. Math. J. Chinese Univ. 31 2009(4):319-329 [pdf]()
 33. Xu, Jinchao, **Qingsong Zou**. Analysis of linear and quadratic simplicial finite volume methods for elliptic equations. Numer. Math. 111(3): 469-492 (January 2009) [pdf]()
 
-<h2>2001-2005</h2>
+<h2><font face='Times New Roman'>2001-2005</font></h2>
 
 34. **Qingsong Zou**. Monotone iteration for elliptic PDEs with discontinuous nonlinear terms. Numer. Math. J. Chinese Univ. (English Ser.) 14(4): 363-374 (January 2005) [pdf]()
 35. Xu, Yuesheng, **Qingsong Zou**. Tree wavelet approximations with applications.Sci. China Ser. A 48(5): 680 (May 2005) [pdf]()
@@ -104,7 +105,7 @@ He, Wenming, Zhang, Zhimin, **Qingsong Zou**. Maximum-norms error estimates for 
 37. Xu, Yuesheng, **Qingsong Zou**. Adaptive wavelet methods for elliptic operator equations with nonlinear terms. Challenges in computational mathematics (Pohang, 2001). Adv. Comput. Math. 19(1-3): 99-146 (July 2003) [pdf]()
 38. **Qingsong Zou**, Li, Yonghai. On the approaching domain obtained by finite element method. Northeast. Math. J. 18(3): 273-282 (January 2002) [pdf]()
 
-<h2>1995-2000</h2>
+<h2><font face='Times New Roman'>1995-2000</font></h2>
 
 39. **Qingsong Zou**. Discrete Friedrichs' and Korn's inequalities. I. Numer. Math. J. Chinese Univ. (English Ser.) 9 2000(2):152-158. [pdf]()
 40. **Qingsong Zou**, Lei, Jingan. Bifurcation for subdifferential operator equations.Bifurcation theory & its numerical analysis (Xi'an, 1998), 216–227, Springer, Singapore, 1999 [pdf]()
