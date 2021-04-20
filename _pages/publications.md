@@ -25,21 +25,22 @@ A, <strong>Qingsong Zou</strong>.<br>
 
 <h2><font face='Times New Roman'>2021</font></h2>
 
-<!-- <a href='/publication/2021-wu-finite'> -->
+<a href='/publication/2021-wu-finite'>
   <strong>
   Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.
   </strong>
-<!-- </a> -->
+</a>
 <br>
 Hao Wu, Jinyong Ying, <strong>Qingsong Zou</strong>.<br>
 <i>International Journal of Numerical Analysis & Modeling.</i> (2021 Feb.)
 <a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-2-21/2021-02-03.pdf'>[Link]</a><br>
 <br>
-<!-- <a href='/publication/2021-zhou-locally'> -->
+
+<a href='/publication/2021-zhou-locally'>
   <strong>
     Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.
   </strong>
-<!-- </a> -->
+</a>
 <br>
 Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
 <i>International Journal of Numerical Analysis & Modeling.</i> (2021 Jan.)
@@ -47,25 +48,27 @@ Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
 
 <h2><font face='Times New Roman'>2016-2020</font></h2>
 
-<!-- <a href='/publication/2020-he-local'> -->
+<a href='/publication/2020-he-local'>
   <strong>
     Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions.
   </strong>
-<!-- </a> -->
+</a>
 <br>
 Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i>Advances in Computational Mathematics.</i> (2020 Jul.)
 <a href='https://link.springer.com/article/10.1007/s10444-020-09801-2'>[Link]</a><br>  
+<br>
 
-<!-- <a href='/publication/2020-gong-locally'> -->
+<a href='/publication/2020-gong-locally'>
   <strong>
     Locally Conservative Finite Element Solutions for Parabolic Equations.
   </strong>
-<!-- </a> -->
+</a>
 <br>
 Wenbo Gong, <strong>Qingsong Zou</strong>.<br>
 <i>International Journal of Numerical Analysis & Modeling. </i> (2020 May)
 <a href='http://www.math.ualberta.ca/ijnam/Volume-17-2020/No-5-20/2020-05-04.pdf'>[Link]</a><br>  
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -76,6 +79,7 @@ Wenbo Gong, <strong>Qingsong Zou</strong>.<br>
 Hailong Guo, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i>Journal of Scientific Computing.</i> (2018 March)
 <a href=''>[Link]</a><br> 
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -86,6 +90,7 @@ Hailong Guo, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i>Numerische Mathematik.</i> (2018 Feb.)
 <a href=''>[Link]</a><br> 
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -96,6 +101,7 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i>Journal of Scientific Computing.</i>
 <a href=''>[Link]</a><br> 
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -106,6 +112,7 @@ Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <strong>Qingsong Zou</strong>, Li Guo, Quanling Deng.<br>
 <i>SIAM Journal on Numerical Analysis.</i> (2017 Nov.)
 <a href=''>[Link]</a><br> 
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -116,6 +123,7 @@ Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i>Journal of Scientific Computing.</i> (2017 Jul.)
 <a href=''>[Link]</a><br>
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -126,6 +134,7 @@ Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
 <i>International Journal of Numerical Analysis & Modeling.</i> (2017 Jun.)
 <a href=''>[Link]</a><br> 
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -136,6 +145,7 @@ Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
 Shangyou Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i>Numerical Methods for Partial Differential Equations.</i> (2017 May)
 <a href=''>[Link]</a><br> 
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -146,7 +156,7 @@ Shangyou Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i> Numerische Mathematik.</i> (2017 May)
 <a href=''>[Link]</a><br> 
-
+<br>
 7. **Qingsong Zou**. An unconditionally stable quadratic finite volume scheme over triangular meshes for elliptic equations. J. Sci. Comput. 70(1): 112-124 (January 2017) [pdf]()
 9.  Lin, Yanping, **Qingsong Zou**. Superconvergence analysis of the MAC scheme for the two dimensional Stokes problem. Numer. Methods Partial Differential Equations 32(6): 1647-1666 (April 2016) [pdf]()
 10. Chen, Hongtao, Zhang, Zhimin, **Qingsong Zou**. A recovery based linear finite element method for 1D bi-harmonic problems. J. Sci. Comput. 68(1): 375-394 (July 2016) [pdf]()
@@ -190,10 +200,37 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 
 <h2><font face='Times New Roman'>1995-2000</font></h2>
 
-39. **Qingsong Zou**. Discrete Friedrichs' and Korn's inequalities. I. Numer. Math. J. Chinese Univ. (English Ser.) 9 2000(2):152-158. [pdf]()
-40. **Qingsong Zou**, Lei, Jingan. Bifurcation for subdifferential operator equations.Bifurcation theory & its numerical analysis (Xi'an, 1998), 216–227, Springer, Singapore, 1999 [pdf]()
-41. **Qingsong Zou**, Tian, Yan, Lei, Jingan. Monotone iterative method for nonlinear discontinuous parabolic differential equations. Wuhan Univ. J. Nat. Sci. 3(4): 389-393 (December 1998) [pdf]()
+<a href='/publication/file'>
+  <strong>
+    Discrete Friedrichs' and Korn's Inequalities.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>.<br>
+<i>Numer. Math. J. Chinese Univ. (English Ser.)</i> (2000)
+<a href=''>[Link]</a><br>
+<br>
 
+<a href='/publication/file'>
+  <strong>
+    Bifurcation for subdifferential operator equations.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>, Jingan Lei.<br>
+<i>Bifurcation theory & its numerical analysis (Xi'an, 1998)</i> (1999)
+<a href=''>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Monotone iterative method for nonlinear discontinuous parabolic differential equations.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>, Yan Tian, Jingan Lei.<br>
+<i>Wuhan Univ. J. Nat. Sci.</i> (1998 Dec.)
+<a href=''>[Link]</a><br>
 
 
 </font>
