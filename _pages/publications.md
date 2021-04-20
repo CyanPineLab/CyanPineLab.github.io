@@ -16,23 +16,25 @@ author_profile: true
 <a href='/publication/2021-zhou-locally'>Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.</a><br>
 Yanhui Zhou; <strong>Qingsong Zou</strong>.<br>
 International Journal of Numerical Analysis & Modeling. 
-[<a class="pure-button" href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>webpage</a>]</font>  
+<a class="pure-button" href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>webpage</a></font>  
 
-<font face='Times New Roman'>Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.  
-Hao Wu; Jinyong Ying; **Qingsong Zou**.  
-International Journal of Numerical Analysis & Modeling.</font>  
-[webpage](http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-2-21/2021-02-03.pdf) / [bibtex](/publication/)  
+<font face='Times New Roman'>
+<a href='/publication/2021-wu-finite'>Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent.</a><br>
+Hao Wu; Jinyong Ying; <strong>Qingsong Zou</strong>.<br>
+International Journal of Numerical Analysis & Modeling. 
+<a class="pure-button" href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>webpage</a></font>  
 
 ## 2020
 
-<font face='Times New Roman'>Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions.  
-Wenming He; Zhimin Zhang; **Qingsong Zou**.  
-Advances in Computational Mathematics.</font>  
-[webpage](https://link.springer.com/article/10.1007/s10444-020-09801-2) / [bibtex]()  / [detail](/publication/2020-he-local)  
+<font face='Times New Roman'>
+<a href='/publication/2020-he-local'>Local Superconvergence of Post-Processed High-Order Finite Volume Element Solutions.</a><br>
+Wenming He; Zhimin Zhang; <strong>Qingsong Zou</strong>.<br>
+Advances in Computational Mathematics.
+<a class="pure-button" href='https://link.springer.com/article/10.1007/s10444-020-09801-2'>webpage</a></font>  
+
 
 <!-- <details>
 <summary>Abstract</summary>
-Local superconvergence properties of the post-processed finite volume element method (FVEM) are studied. Some interpolation/extrapolation post-processing techniques are applied to a class of $k$ th-order ($k\geq 2$) FVE solutions for elliptic equations. A local analysis tool for the finite volume method is developed to analyze the proposed method, and some superconvergence results are established. The theoretical findings are supported by several numerical experiments.
 </details> -->
 
 ## 2019

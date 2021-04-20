@@ -9,19 +9,21 @@ paperurl: 'https://link.springer.com/article/10.1007/s10444-020-09801-2'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[Download paper here](https://link.springer.com/article/10.1007/s10444-020-09801-2)
+- Received: 28 November 2018
+- Accepted: 08 June 2020
+- Published: 06 July 2020
 
-Recommended citation: He, W., Zhang, Z. & Zou, Q. Local superconvergence of post-processed high-order finite volume element solutions. Adv Comput Math 46, 60 (2020). https://doi.org/10.1007/s10444-020-09801-2.
+## Abstract
 
-Received: 28 November 2018
+Local superconvergence properties of the post-processed finite volume element method (FVEM) are studied. Some interpolation/extrapolation post-processing techniques are applied to a class of $k$ th-order ($k\geq 2$) FVE solutions for elliptic equations. A local analysis tool for the finite volume method is developed to analyze the proposed method, and some superconvergence results are established. The theoretical findings are supported by several numerical experiments.
 
-Accepted: 08 June 2020
+[Download Paper](https://link.springer.com/article/10.1007/s10444-020-09801-2)
 
-Published: 06 July 2020
+## Recommended Citation
 
-DOI: https://doi.org/10.1007/s10444-020-09801-2
+He, W., Zhang, Z. & Zou, Q. Local superconvergence of post-processed high-order finite volume element solutions. Adv Comput Math 46, 60 (2020). https://doi.org/10.1007/s10444-020-09801-2.
 
-bibtex:
+### bibtex
 ```
 @article{he2020local,
   title={Local superconvergence of post-processed high-order finite volume element solutions},
