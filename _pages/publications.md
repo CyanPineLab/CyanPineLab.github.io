@@ -72,12 +72,56 @@ Wenbo Gong, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-    A $C^0$ Linear Finite Element Method for Biharmonic Problems.
+    A Priori and a Posteriori Estimates of the Stabilized Finite Element Methods for the Incompressible Flow with Slip Boundary Conditions Arising in Arteriosclerosis.
+  </strong>
+</a>
+<br>
+Jian Li, Haibiao Zheng, <strong>Qingsong Zou</strong>.<br>
+<i>Advances in Difference Equations.</i> (2019 Sept.)
+<a href=''>[Link]</a><br>  
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Variational Graph Embedding and Clustering with Laplacian Eigenmaps.
+  </strong>
+</a>
+<br>
+Zitai Chen, Chuan Chen, Zong Zhang, Zibin Zheng, <strong>Qingsong Zou</strong>.<br>
+<i>International Joint Conference on Artificial Intelligence. (IJCAI 2019)</i> (2019 Aug.)
+<a href=''>[Link]</a><br>  
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Hessian Recovery Based Finite Element Methods for the Cahn-Hilliard Equation.
+  </strong>
+</a>
+<br>
+Minqiang Xu, Hailong Guo, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Computational Physics.</i> (2019 Mar.)
+<a href=''>[Link]</a><br>  
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Interior Estimates of Finite Volume Element Methods Over Quadrilateral Meshes for Elliptic Equations.
+  </strong>
+</a>
+<br>
+Li Guo, Hengguang Li, <strong>Qingsong Zou</strong>.<br>
+<i>SIAM Journal on Numerical Analysis.</i> (2019 Jan.)
+<a href=''>[Link]</a><br>  
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    A $C^0$ Linear Finite Element Method for Sixth Order Elliptic Equations.
   </strong>
 </a>
 <br>
 Hailong Guo, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>Journal of Scientific Computing.</i> (2018 March)
+<i>arXiv preprint arXiv:1804.03793, 2018</i> (2018 Apr.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -123,6 +167,17 @@ Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i>Journal of Scientific Computing.</i> (2017 Jul.)
 <a href=''>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    A $C^0$ Linear Finite Element Method for Biharmonic Problems.
+  </strong>
+</a>
+<br>
+Hailong Guo, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Scientific Computing.</i> (2017 Jul.)
+<a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
@@ -187,10 +242,22 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <h2><font face='Times New Roman'>2006-2010</font></h2>
 
 31. **Qingsong Zou**. Hierarchical error estimates for finite volume approximation solution of elliptic equations. Appl. Numer. Math. 60(1-2): 142-153 (February 2010) [pdf]()
-32. Zou, Qing Song. Adaptive methods without marking oscillation for general elliptic equations. (Chinese) Numer. Math. J. Chinese Univ. 31 2009(4):319-329 [pdf]()
+
+<a href='/publication/file'>
+  <strong>
+    Adaptive Methods without Marking Oscillation for General Elliptic Equations.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>.<br>
+<i>J. </i>
+<a href=''>[Link]</a><br>
+
+32. Zou, Qing Song.  (Chinese) Numer. Math. J. Chinese Univ. 31 2009(4):319-329 [pdf]()
 33. Xu, Jinchao, **Qingsong Zou**. Analysis of linear and quadratic simplicial finite volume methods for elliptic equations. Numer. Math. 111(3): 469-492 (January 2009) [pdf]()
 
 <h2><font face='Times New Roman'>2001-2005</font></h2>
+
 
 34. **Qingsong Zou**. Monotone iteration for elliptic PDEs with discontinuous nonlinear terms. Numer. Math. J. Chinese Univ. (English Ser.) 14(4): 363-374 (January 2005) [pdf]()
 35. Xu, Yuesheng, **Qingsong Zou**. Tree wavelet approximations with applications.Sci. China Ser. A 48(5): 680 (May 2005) [pdf]()
