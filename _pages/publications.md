@@ -12,8 +12,8 @@ author_profile: true
 {% include base_path %} -->
 
 ## 2021
-<font face='Times New Roman'>Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.  
-Yanhui Zhou; **Qingsong Zou**.  
+<font face='Times New Roman'>Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.<br>
+Yanhui Zhou; <strong>Qingsong Zou</strong>.<br>
 International Journal of Numerical Analysis & Modeling.</font>
 [<font face='Times New Roman'>webpage</font>](http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf) / [<font face='Times New Roman'>details</font>](/publication/2021-zhou-locally)
 
