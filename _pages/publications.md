@@ -12,10 +12,10 @@ author_profile: true
 {% include base_path %} -->
 
 ## 2021
-<font face='Times New Roman'>Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.</font>  
+<font face='Times New Roman'>Locally Conservative Serendipity Finite Element Solutions for Elliptic Equations.
 Yanhui Zhou; **Qingsong Zou**.  
 International Journal of Numerical Analysis & Modeling.  
-[webpage](http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf) / [details](/papers/mk1.md)
+[webpage](http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf) / [details](/publication/2009-10-01-paper-title-number-1)</font>  
 
 Finite Volume Element Method for Predicting Electrostatics of a Biomolecule Immersed in An Ionic Solvent  
 Hao Wu; Jinyong Ying; **Qingsong Zou**.  
@@ -97,6 +97,6 @@ He, Wenming; Zhang, Zhimin; **Qingsong Zou**. Maximum-norms error estimates for 
 40. **Qingsong Zou**; Lei, Jingan. Bifurcation for subdifferential operator equations.Bifurcation theory & its numerical analysis (Xi'an, 1998), 216–227, Springer, Singapore, 1999 [pdf]()
 41. **Qingsong Zou**; Tian, Yan; Lei, Jingan. Monotone iterative method for nonlinear discontinuous parabolic differential equations. Wuhan Univ. J. Nat. Sci. 3(4): 389-393 (December 1998) [pdf]()
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
