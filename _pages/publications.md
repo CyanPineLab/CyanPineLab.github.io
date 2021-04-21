@@ -212,13 +212,83 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 <i> Numerische Mathematik.</i> (2017 May)
 <a href=''>[Link]</a><br> 
 <br>
-7. **Qingsong Zou**. An unconditionally stable quadratic finite volume scheme over triangular meshes for elliptic equations. J. Sci. Comput. 70(1): 112-124 (January 2017) [pdf]()
-9.  Lin, Yanping, **Qingsong Zou**. Superconvergence analysis of the MAC scheme for the two dimensional Stokes problem. Numer. Methods Partial Differential Equations 32(6): 1647-1666 (April 2016) [pdf]()
-10. Chen, Hongtao, Zhang, Zhimin, **Qingsong Zou**. A recovery based linear finite element method for 1D bi-harmonic problems. J. Sci. Comput. 68(1): 375-394 (July 2016) [pdf]()
-11. Guo, Hailong, Zhang, Zhimin, Zhao, Ren, **Qingsong Zou**. Polynomial preserving recovery on boundary. J. Comput. Appl. Math. 307: 119-133 (December 2016) [pdf]()
-12. Yang, Min, Liu, Jiangguo, **Qingsong Zou**. Unified analysis of higher-order finite volume methods for parabolic problems on quadrilateral meshes. IMA J. Numer. Anal. 36(2): 872-896 (June 2016) [pdf]()
-13. Lai, Zhigang, Wu, Bin, **Qingsong Zou**. Finite volume method on hybrid meshes for coastal ocean model. Int. J. Numer. Anal. Model. 13: 310-317 (February 2016)[pdf]()
-14. Jin, Guanghao, Li, Hengguang, Zhang, Qinghui, **Qingsong Zou**. Linear and quadratic finite volume methods on triangular meshes for elliptic equations with singular solutions. Int. J. Numer. Anal. Model. 13(2): 244-264 (2016) [pdf]()
+
+<a href='/publication/file'>
+  <strong>
+     An unconditionally stable quadratic finite volume scheme over triangular meshes for elliptic equations.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>.<br>
+<i> J. Sci. Comput.</i> (2017 Jan.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Polynomial preserving recovery on boundary.
+  </strong>
+</a>
+<br>
+Hailong Guo, Zhimin Zhang, Ren Zhao, <strong>Qingsong Zou</strong>.<br>
+<i> J. Comput. Appl. Math.</i> (2016 Dec.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    A recovery based linear finite element method for 1D bi-harmonic problems.
+  </strong>
+</a>
+<br>
+Hongtao Chen, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i> J. Sci. Comput.</i> (2016 Jul.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Unified analysis of higher-order finite volume methods for parabolic problems on quadrilateral meshes.
+  </strong>
+</a>
+<br>
+Min Yang, Jiangguo Liu, <strong>Qingsong Zou</strong>.<br>
+<i>IMA J. Numer. Anal.</i> (2016 Jun.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Superconvergence analysis of the MAC scheme for the two dimensional Stokes problem.
+  </strong>
+</a>
+<br>
+Yanping Lin, <strong>Qingsong Zou</strong>.<br>
+<i> Numer. Methods Partial Differential Equations.</i> (2016 Apr.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Finite volume method on hybrid meshes for coastal ocean model.
+  </strong>
+</a>
+<br>
+Zhigang Lai, Bin Wu, <strong>Qingsong Zou</strong>.<br>
+<i> Int. J. Numer. Anal. Model.</i> (2016 Feb.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Linear and quadratic finite volume methods on triangular meshes for elliptic equations with singular solutions.
+  </strong>
+</a>
+<br>
+Guanghao Jin, Hengguang Li, Qinghui Zhang, <strong>Qingsong Zou</strong>.<br>
+<i> Int. J. Numer. Anal. Model.</i> (2016)
+<a href=''>[Link]</a><br> 
+<br>
 
 <h2><font face='Times New Roman'>2011-2015</font></h2>
 
