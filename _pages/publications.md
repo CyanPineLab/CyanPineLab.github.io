@@ -88,7 +88,7 @@ Jian Li, Haibiao Zheng, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Zitai Chen, Chuan Chen, Zong Zhang, Zibin Zheng, <strong>Qingsong Zou</strong>.<br>
-<i>International Joint Conference on Artificial Intelligence. (IJCAI 2019)</i> (2019 Aug.)
+<i>Twenty-Eighth International Joint Conference on Artificial Intelligence. (IJCAI 2019)</i> (2019 Aug.)
 <a href=''>[Link]</a><br>  
 <br>
 
@@ -143,8 +143,19 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>Journal of Scientific Computing.</i>
+<i>Journal of Scientific Computing.</i> (2018 Jan.)
 <a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Superconvergence of Immersed Finite Volume Methods for One-Dimensional Interface Problems.
+  </strong>
+</a>
+<br>
+Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Scientific Computing.</i> (2017 Dec.)
+<a href=''>[Link]</a><br>
 <br>
 
 <a href='/publication/file'>
@@ -160,13 +171,13 @@ Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-    Superconvergence of Immersed Finite Volume Methods for One-Dimensional Interface Problems.
+    A Conservative Flux Optimization Finite Element Method for Convection-Diffusion Equations.
   </strong>
 </a>
 <br>
-Waixiang Cao, Xu Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>Journal of Scientific Computing.</i> (2017 Jul.)
-<a href=''>[Link]</a><br>
+Yujie Liu, Junping Wang, <strong>Qingsong Zou</strong>.<br>
+<i>SIAM Journal on Numerical Analysis.</i> (2017 Oct.)
+<a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
@@ -215,34 +226,34 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-     An unconditionally stable quadratic finite volume scheme over triangular meshes for elliptic equations.
+    An Unconditionally Stable Quadratic Finite Volume Scheme over Triangular Meshes for Elliptic Equations.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i> J. Sci. Comput.</i> (2017 Jan.)
+<i>Journal of Scientific Computing</i> (2017 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Polynomial preserving recovery on boundary.
+    A $C_0$ Linear Finite Element Method for Two Fourth-Order Eigenvalue Problems.
   </strong>
 </a>
 <br>
-Hailong Guo, Zhimin Zhang, Ren Zhao, <strong>Qingsong Zou</strong>.<br>
-<i> J. Comput. Appl. Math.</i> (2016 Dec.)
+Hongtao Chen, Hailong Guo, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>IMA Journal of Numerical Analysis.</i> (2016 Nov.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    A recovery based linear finite element method for 1D bi-harmonic problems.
+    A Recovery Based Linear Finite Element Method for 1D Bi-Harmonic Problems.
   </strong>
 </a>
 <br>
 Hongtao Chen, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i> J. Sci. Comput.</i> (2016 Jul.)
+<i>Journal of Scientific Computing.</i> (2016 Jul.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -259,34 +270,45 @@ Min Yang, Jiangguo Liu, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-    Superconvergence analysis of the MAC scheme for the two dimensional Stokes problem.
+    Superconvergence Analysis of the Mac Scheme for the Two Dimensional Stokes Problem.
   </strong>
 </a>
 <br>
 Yanping Lin, <strong>Qingsong Zou</strong>.<br>
-<i> Numer. Methods Partial Differential Equations.</i> (2016 Apr.)
+<i>Numerical Methods for Partial Differential Equations.</i> (2016 Apr.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Finite volume method on hybrid meshes for coastal ocean model.
+    Polynomial Preserving Recovery on Boundary.
+  </strong>
+</a>
+<br>
+Hailong Guo, Zhimin Zhang, Ren Zhao, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Computational and Applied Mathematics.</i> (2016 Mar.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Finite Volume Method on Hybrid Meshes for Coastal Ocean Model.
   </strong>
 </a>
 <br>
 Zhigang Lai, Bin Wu, <strong>Qingsong Zou</strong>.<br>
-<i> Int. J. Numer. Anal. Model.</i> (2016 Feb.)
+<i>International Journal of Numerical Analysis and Modeling.</i> (2016 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Linear and quadratic finite volume methods on triangular meshes for elliptic equations with singular solutions.
+    Linear and Quadratic Finite Volume Methods on Triangular Meshes for Elliptic Equations with Singular Solutions.
   </strong>
 </a>
 <br>
 Guanghao Jin, Hengguang Li, Qinghui Zhang, <strong>Qingsong Zou</strong>.<br>
-<i> Int. J. Numer. Anal. Model.</i> (2016)
+<i>International Journal of Numerical Analysis and Modeling.</i> (2016 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -294,18 +316,7 @@ Guanghao Jin, Hengguang Li, Qinghui Zhang, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-    L2 error estimates for a class of any order finite volume schemes over quadrilateral meshes.
-  </strong>
-</a>
-<br>
-Yanping Lin, Min Yang, <strong>Qingsong Zou</strong>.<br>
-<i>SIAM J. Numer. Anal.</i> (2015 Aug.)
-<a href=''>[Link]</a><br> 
-<br>
-
-<a href='/publication/file'>
-  <strong>
-    Vertex-centered finite volume schemes of any order over quadrilateral meshes for elliptic boundary value problems.
+    Vertex-Centered Finite Volume Schemes of Any Order over Quadrilateral Meshes for Elliptic Boundary Value Problems.
   </strong>
 </a>
 <br>
@@ -316,100 +327,111 @@ Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-    Is 2k-conjecture valid for finite volume methods?
+    L2 error estimates for a class of any order finite volume schemes over quadrilateral meshes.
   </strong>
 </a>
 <br>
-Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>SIAM J. Numer. Anal.</i> (2015 Apr.)
+Yanping Lin, Min Yang, <strong>Qingsong Zou</strong>.<br>
+<i>SIAM Journal on Numerical Analysis.</i> (2015 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Superconvergence of discontinuous Galerkin methods for linear hyperbolic equations.
+    Is 2k-Conjecture Valid for Finite Volume Methods?
   </strong>
 </a>
 <br>
 Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>SIAM J. Numer. Anal.</i> (2014 Oct.)
+<i>SIAM Journal on Numerical Analysis.</i> (2015 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    A class of finite volume schemes of arbitrary order on nonuniform meshes.
+    A Class of Finite Volume Schemes of Arbitrary Order on Nonuniform Meshes.
   </strong>
 </a>
 <br>
 Qinghui Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>Numer. Methods Partial Differential Equations</i> (2014 Sept.)
+<i>Numerical Methods for Partial Differential Equations.</i> (2014 Sept.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Analysis of a p-version finite volume method for 1D elliptic problems.
+    Analysis of a P-version Finite Volume Method for 1d Elliptic Problems.
   </strong>
 </a>
 <br>
 Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>J. Comput. Appl. Math.</i> (2014 Aug.)
+<i>Journal of Computational and Applied Mathematics.</i> (2014 Aug.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    A family of finite volume schemes of arbitrary order on rectangular meshes.
+    A Family of Finite Volume Schemes of Arbitrary Order on Rectangular Meshes.
   </strong>
 </a>
 <br>
 Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>J. Sci. Comput.</i> (2014 Feb.)
+<i>Journal of Scientific Computing.</i> (2014 Feb.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Some recent advances on vertex centered finite volume element methods for elliptic equations.
+    Superconvergence of Discontinuous Galerkin Methods for Linear Hyperbolic Equations.
+  </strong>
+</a>
+<br>
+Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>SIAM Journal on Numerical Analysis.</i> (2014 Jan.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Some Recent Advances on Vertex Centered Finite Volume Element Methods for Elliptic Equations..
   </strong>
 </a>
 <br>
 Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>Sci. China Math.</i> (2013 Dec.)
+<i>Science China Mathematics.</i> (2013 Nov.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Finite volume superconvergence approximation for one-dimensional singularly perturbed problems.
+    Superconvergence of Discontinuous Galerkin Methods for Two-Dimensional Hyperbolic Equations.
   </strong>
 </a>
 <br>
 Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>J. Comput. Math.</i> (2013 Sept.)
+<i>SIAM Journal on Numerical Analysis.</i> (2013 Nov.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Superconvergence of any order finite volume schemes for 1D general elliptic equations.
+    Finite Volume Superconvergence Approximation for One-Dimensional Singularly Perturbed Problems.
   </strong>
 </a>
 <br>
 Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>J. Sci. Comput.</i> (2013 Sept.)
+<i>Journal of Computational Mathematics.</i> (2013 Sept.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    A novel hierarchial error estimate for elliptic obstacle problems.
+    A Novel Hierarchial Error Estimate for Elliptic Obstacle Problems.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i>J. Sci. Comput.</i> (2013 Jan.)
+<i>Journal of Scientific Computing.</i> (2013 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -426,12 +448,45 @@ Yonghai Li, Shi Shu, Yuesheng Xu, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-     A near-optimal hierarchical estimate based adaptive finite element method for obstacle problems.
+    Superconvergence of Any Order Finite Volume Schemes for 1D General Elliptic Equations.
+  </strong>
+</a>
+<br>
+Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Scientific Computing.</i> (2012 Jul.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Finite Volume Schemes of Any Order on Rectangular Meshes.
+  </strong>
+</a>
+<br>
+Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>arXiv preprint arXiv:1207.0564。</i> (2012 Jul.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Flux-Conserving Finite Element Methods.
+  </strong>
+</a>
+<br>
+Shangyou Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>arXiv preprint arXiv:1205.1862.</i> (2012 May)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+     A Near-optimal Hierarchical Estimate Based Adaptive Finite Element Method for Obstacle Problems.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i>Lect. Notes Comput. Sci. Eng.</i> (2016)
+<i>Lecture Notes in Computational Science and Engineering.</i> (2011 Oct.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -442,29 +497,29 @@ Yonghai Li, Shi Shu, Yuesheng Xu, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 <strong>Qingsong Zou</strong>Veeser, Andreas, Kornhuber, Ralf, Carsten Gräser.<br>
-<i> Int. J. Numer. Anal. Model.</i> (2011 Apr.)
+<i>International Journal of Numerical Analysis and Modeling.</i> (2011 Apr.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Efficient and reliable hierarchical error estimates for an elliptic obstacle problem.
+    Efficient and Reliable Hierarchical Error Estimates for an Elliptic Obstacle Problem.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i>Appl. Numer. Math. </i> (2011 Oct.)
+<i>Applied Numerical Mathematics.</i> (2011 Mar.)
 <a href=''>[Link]</a><br> 
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Efficient and reliable hierarchical error estimates for the discretization error of elliptic obstacle problems.
+    Efficient and Reliable Hierarchical Error Estimates for the Discretization Error of Elliptic Obstacle Problems.
   </strong>
 </a>
 <br>
 Ralf Kornhuber, <strong>Qingsong Zou</strong>.<br>
-<i>Math. Comp.</i> (2011 Jan.)
+<i>Mathematics of Computation</i> (2011 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -472,12 +527,12 @@ Ralf Kornhuber, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-    Hierarchical error estimates for finite volume approximation solution of elliptic equations.
+    Hierarchical Error Estimates for Finite Volume Approximation Solution of Elliptic Equations.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i>Appl. Numer. Math.</i> (2010 Feb.)
+<i>Applied Numerical Mathematics.</i> (2010 Feb.)
 <a href=''>[Link]</a><br>
 <br>
 
