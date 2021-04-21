@@ -32,7 +32,7 @@ A, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Hao Wu, Jinyong Ying, <strong>Qingsong Zou</strong>.<br>
-<i>International Journal of Numerical Analysis & Modeling.</i> (2021 Feb.)
+<i>International Journal of Numerical Analysis and Modeling.</i> (2021 Feb.)
 <a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-2-21/2021-02-03.pdf'>[Link]</a><br>
 <br>
 
@@ -43,7 +43,7 @@ Hao Wu, Jinyong Ying, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
-<i>International Journal of Numerical Analysis & Modeling.</i> (2021 Jan.)
+<i>International Journal of Numerical Analysis and Modeling.</i> (2021 Jan.)
 <a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>[Link]</a><br>
 
 <h2><font face='Times New Roman'>2016-2020</font></h2>
@@ -66,7 +66,7 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Wenbo Gong, <strong>Qingsong Zou</strong>.<br>
-<i>International Journal of Numerical Analysis & Modeling.</i> (2020 May)
+<i>International Journal of Numerical Analysis and Modeling.</i> (2020 May)
 <a href='http://www.math.ualberta.ca/ijnam/Volume-17-2020/No-5-20/2020-05-04.pdf'>[Link]</a><br>  
 <br>
 
@@ -602,6 +602,7 @@ Yuesheng Xu, <strong>Qingsong Zou</strong><br>
 Yuesheng Xu, H.-L. Chen, <strong>Qingsong Zou</strong>.<br>
 <i>Computing.</i> (2004 Nov.)
 <a href=''>[Link]</a><br>
+<br>
 
 <a href='/publication/file'>
   <strong>
@@ -647,16 +648,6 @@ Yuesheng Xu, <strong>Qingsong Zou</strong><br>
 <i>Bifurcation Theory & Its Numerical Analysis.</i> (1999)
 <a href=''>[Link]</a><br>
 <br>
-
-<a href='/publication/file'>
-  <strong>
-    Monotone Iterative Method for Nonlinear Discontinuous Parabolic Differential Equations.
-  </strong>
-</a>
-<br>
-<strong>Qingsong Zou</strong>, Yan Tian, Jingan Lei.<br>
-<i>Wuhan University Journal of Natural Sciences.</i> (1998 Dec.)
-<a href=''>[Link]</a><br>
 
 <a href='/publication/file'>
   <strong>
