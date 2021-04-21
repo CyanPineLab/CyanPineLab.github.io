@@ -66,7 +66,7 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Wenbo Gong, <strong>Qingsong Zou</strong>.<br>
-<i>International Journal of Numerical Analysis & Modeling. </i> (2020 May)
+<i>International Journal of Numerical Analysis & Modeling.</i> (2020 May)
 <a href='http://www.math.ualberta.ca/ijnam/Volume-17-2020/No-5-20/2020-05-04.pdf'>[Link]</a><br>  
 <br>
 
@@ -88,7 +88,7 @@ Jian Li, Haibiao Zheng, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Zitai Chen, Chuan Chen, Zong Zhang, Zibin Zheng, <strong>Qingsong Zou</strong>.<br>
-<i>Twenty-Eighth International Joint Conference on Artificial Intelligence. (IJCAI 2019)</i> (2019 Aug.)
+<i>Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI 2019).</i> (2019 Aug.)
 <a href=''>[Link]</a><br>  
 <br>
 
@@ -121,7 +121,7 @@ Li Guo, Hengguang Li, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Hailong Guo, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>arXiv preprint arXiv:1804.03793, 2018</i> (2018 Apr.)
+<i>arXiv preprint arXiv:1804.03793.</i> (2018 Apr.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -220,7 +220,7 @@ Shangyou Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i> Numerische Mathematik.</i> (2017 May)
+<i>Numerische Mathematik.</i> (2017 May)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -231,7 +231,7 @@ Wenming He, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i>Journal of Scientific Computing</i> (2017 Jan.)
+<i>Journal of Scientific Computing.</i> (2017 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -264,7 +264,7 @@ Hongtao Chen, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Min Yang, Jiangguo Liu, <strong>Qingsong Zou</strong>.<br>
-<i>IMA J. Numer. Anal.</i> (2016 Jun.)
+<i>IMA Journal of Numerical Analysis.</i> (2016 Jun.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -321,7 +321,7 @@ Guanghao Jin, Hengguang Li, Qinghui Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>Numer. Math.</i> (2015 Jun.)
+<i>Numerische Mathematik.</i> (2015 Jun.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -437,17 +437,6 @@ Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-    Multilevel preconditioning for the finite volume method.
-  </strong>
-</a>
-<br>
-Yonghai Li, Shi Shu, Yuesheng Xu, <strong>Qingsong Zou</strong>.<br>
-<i>Math. Comp.</i> (2012 Feb.)
-<a href=''>[Link]</a><br> 
-<br>
-
-<a href='/publication/file'>
-  <strong>
     Superconvergence of Any Order Finite Volume Schemes for 1D General Elliptic Equations.
   </strong>
 </a>
@@ -464,7 +453,7 @@ Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>arXiv preprint arXiv:1207.0564。</i> (2012 Jul.)
+<i>arXiv preprint arXiv:1207.0564.</i> (2012 Jul.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -481,23 +470,12 @@ Shangyou Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 
 <a href='/publication/file'>
   <strong>
-     A Near-optimal Hierarchical Estimate Based Adaptive Finite Element Method for Obstacle Problems.
+     A Near-Optimal Hierarchical Estimate Based Adaptive Finite Element Method for Obstacle Problems.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
 <i>Lecture Notes in Computational Science and Engineering.</i> (2011 Oct.)
-<a href=''>[Link]</a><br> 
-<br>
-
-<a href='/publication/file'>
-  <strong>
-    Hierarchical error estimates for the energy functional in obstacle problems.
-  </strong>
-</a>
-<br>
-<strong>Qingsong Zou</strong>Veeser, Andreas, Kornhuber, Ralf, Carsten Gräser.<br>
-<i>International Journal of Numerical Analysis and Modeling.</i> (2011 Apr.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -519,7 +497,7 @@ Shangyou Zhang, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 Ralf Kornhuber, <strong>Qingsong Zou</strong>.<br>
-<i>Mathematics of Computation</i> (2011 Jan.)
+<i>Mathematics of Computation.</i> (2011 Jan.)
 <a href=''>[Link]</a><br> 
 <br>
 
@@ -543,110 +521,152 @@ Ralf Kornhuber, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i> Numer. Math. J. Chinese Univ.</i> (2009)
+<i>Numerical Mathematics A Journal of Chinese Universities.</i> (2009)
 <a href=''>[Link]</a><br>
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Analysis of linear and quadratic simplicial finite volume methods for elliptic equations.
+    Analysis of Linear and Quadratic Simplicial Finite Volume Methods for Elliptic Equations.
   </strong>
 </a>
 <br>
 Jinchao Xu, <strong>Qingsong Zou</strong>.<br>
-<i>Numer. Math.</i> (2009 Jan.)
+<i>Numerische Mathematik.</i> (2009 Jan.)
 <a href=''>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Hierarchical Error Estimates for the Energy Functional in Obstacle Problems.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>, Andreas Veeser, Ralf Kornhuber, Carsten Gräser.<br>
+<i>Numerische Mathematik.</i> (2008 Jan.)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Multilevel Preconditioning for the Finite Volume Methods.
+  </strong>
+</a>
+<br>
+Yonghai Li, Shi Shu, Yuesheng Xu, <strong>Qingsong Zou</strong>.<br>
+<i>Mathematics of Computation.</i> (2006)
+<a href=''>[Link]</a><br> 
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    New Adaptive Finite Volume Methods and Convergence Analysis.
+  </strong>
+</a>
+<br>
+Jinchao Xu, Yunrong Zhu, <strong>Qingsong Zou</strong>.<br>
+<i>Preprint AM296, Mathematics Department, Penn State.</i> (2006 Jan.)
+<a href=''>[Link]</a><br> 
 <br>
 
 <h2><font face='Times New Roman'>2001-2005</font></h2>
 
 <a href='/publication/file'>
   <strong>
-    Monotone iteration for elliptic PDEs with discontinuous nonlinear terms.
-  </strong>
-</a>
-<br>
-<strong>Qingsong Zou</strong>.<br>
-<i>Numer. Math. J. Chinese Univ. (English Ser.)</i> (2005 Jan.)
-<a href=''>[Link]</a><br>
-<br>
-
-<a href='/publication/file'>
-  <strong>
-    Tree wavelet approximations with applications.
+    Tree Wavelet Approximations with Applications.
   </strong>
 </a>
 <br>
 Yuesheng Xu, <strong>Qingsong Zou</strong><br>
-<i>Sci. China Ser. A</i> (2005 May)
+<i>Science in China Series A Mathematics.</i> (2005 May)
 <a href=''>[Link]</a><br>
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Limit values of derivatives of the Cauchy integrals and computation of the logarithmic potentials.
+    Monotone Iteration for Elliptic PDEs with Discontinuous Nonlinear Terms.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i>Computing</i> (2004 Nov.)
+<i>Numerical Mathematics Theory Methods and Applications.</i> (2005 Jan.)
+<a href=''>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Limit Values of Derivatives of the Cauchy Integrals and Computation of the Logarithmic Potentials.
+  </strong>
+</a>
+<br>
+Yuesheng Xu, H.-L. Chen, <strong>Qingsong Zou</strong>.<br>
+<i>Computing.</i> (2004 Nov.)
 <a href=''>[Link]</a><br>
 
 <a href='/publication/file'>
   <strong>
-    Adaptive wavelet methods for elliptic operator equations with nonlinear terms.
+    Adaptive Wavelet Methods for Elliptic Operator Equations with Nonlinear Terms.
   </strong>
 </a>
 <br>
 Yuesheng Xu, <strong>Qingsong Zou</strong><br>
-<i>Challenges in computational mathematics (Pohang, 2001)</i> (2003 Jul.)
+<i>Advances in Computational Mathematics.</i> (2003 Jul.)
 <a href=''>[Link]</a><br>
 <br>
 
 <a href='/publication/file'>
   <strong>
-    On the approaching domain obtained by finite element method.
+    On the Approaching Domain Obtained by Finite Element Method.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>, Yonghai Li.<br>
-<iNortheast. Math. J.</i> (2002 Jan.)
+<i></i> (2002 Jan.)
 <a href=''>[Link]</a><br>
 
 <h2><font face='Times New Roman'>1995-2000</font></h2>
 
 <a href='/publication/file'>
   <strong>
-    Discrete Friedrichs' and Korn's Inequalities.
+    Discrete Friedrichs' and Korn's Inequalities. I
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>.<br>
-<i>Numer. Math. J. Chinese Univ. (English Ser.)</i> (2000)
+<i>Numerical Mathematics Theory Methods and Applications.</i> (2000 Jan.)
 <a href=''>[Link]</a><br>
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Bifurcation for subdifferential operator equations.
+    Bifurcation for Subdifferential Operator Equations.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>, Jingan Lei.<br>
-<i>Bifurcation theory & its numerical analysis (Xi'an, 1998)</i> (1999)
+<i>Bifurcation Theory & Its Numerical Analysis.</i> (1999)
 <a href=''>[Link]</a><br>
 <br>
 
 <a href='/publication/file'>
   <strong>
-    Monotone iterative method for nonlinear discontinuous parabolic differential equations.
+    Monotone Iterative Method for Nonlinear Discontinuous Parabolic Differential Equations.
   </strong>
 </a>
 <br>
 <strong>Qingsong Zou</strong>, Yan Tian, Jingan Lei.<br>
-<i>Wuhan Univ. J. Nat. Sci.</i> (1998 Dec.)
+<i>Wuhan University Journal of Natural Sciences.</i> (1998 Dec.)
 <a href=''>[Link]</a><br>
 
+<a href='/publication/file'>
+  <strong>
+    Monotone Iterative Method for Nonlinear Discontinuous Parabolic Differential Equations.
+  </strong>
+</a>
+<br>
+<strong>Qingsong Zou</strong>, Yan Tian, Jingan Lei.<br>
+<i>Wuhan University Journal of Natural Sciences.</i> (1998 Dec.)
+<a href=''>[Link]</a><br>
 
 </font>
 <!-- {% for post in site.publications reversed %}
