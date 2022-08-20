@@ -25,7 +25,7 @@ A, <strong>Qingsong Zou</strong>.<br>
 
 <h2><font face='Times New Roman'>2022</font></h2>
 
-<a href='/publication/file'>
+<a href='/publication/2022-liu-dynamics'>
   <strong>
   The Dynamics of Suspended Rough Platelets in Shear Flows with Different Reynolds Numbers.
   </strong>
@@ -36,7 +36,7 @@ Kai Liu, <strong>Qingsong Zou</strong>, Zhipeng Xu, Zhijun Tan.<br>
 <a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
 <br>
 
-<a href='/publication/file'>
+<a href='/publication/2022-zeng-dbtdm'>
   <strong>
     Deep Neural Networks Based Temporal-Difference Methods for High-Dimensional Parabolic Partial Differential Equations.
   </strong>
@@ -47,7 +47,7 @@ Shaojie Zeng, Yihua Cai, <strong>Qingsong Zou</strong>.<br>
 <a href='https://www.sciencedirect.com/science/article/pii/S0021999122005654'>[Link]</a><br>
 <br>
 
-<a href='/publication/file'>
+<a href='/publication/2022-zhang-novel'>
   <strong>
     A Novel Triple-gate Model for Mechanosensitive Ion Channel Piezo1.
   </strong>
@@ -58,7 +58,7 @@ Yu Zhang, <strong>Qingsong Zou</strong>.<br>
 <a href='https://ieeexplore.ieee.org/abstract/document/9802499'>[Link]</a><br>
 <br>
 
-<a href='/publication/file'>
+<a href='/publication/2022-zeng-adn'>
   <strong>
     Adaptive deep neural networks methods for high-dimensional partial differential equations.
   </strong>
@@ -69,7 +69,7 @@ Shaojie Zeng, Zong Zhang, <strong>Qingsong Zou</strong>.<br>
 <a href='https://www.sciencedirect.com/science/article/pii/S0021999122002947#!'>[Link]</a><br>
 <br>
 
-<a href='/publication/file'>
+<a href='/publication/2022-xu-molecular'>
   <strong>
     A Molecular Dynamics Based Multi-scale Platelet Aggregation Model and Its High-Throughput Simulation.
   </strong>
@@ -82,7 +82,7 @@ Zhipeng Xu, <strong>Qingsong Zou</strong>.<br>
 
 <h2><font face='Times New Roman'>2021</font></h2>
 
-<a href='/publication/file'>
+<a href='/publication/2021-cao-svm'>
   <strong>
     Analysis of Spectral Volume Methods for 1D Linear Scalar Hyperbolic Equations.
   </strong>
@@ -93,7 +93,7 @@ Waixiang Cao, <strong>Qingsong Zou</strong>.<br>
 <a href='https://link.springer.com/article/10.1007/s10915-021-01715-5'>[Link]</a><br>
 <br>
 
-<a href='/publication/file'>
+<a href='/publication/2021-ye-adaptive'>
   <strong>
     An Adaptive Time Stepping Algorithm and Its Application to Platelet Aggregation Simulation.
   </strong>
@@ -124,6 +124,7 @@ Hao Wu, Jinyong Ying, <strong>Qingsong Zou</strong>.<br>
 Yanhui Zhou, <strong>Qingsong Zou</strong>.<br>
 <i>International Journal of Numerical Analysis and Modeling.</i> (2021 Jan.)
 <a href='http://www.math.ualberta.ca/ijnam/Volume-18-2021/No-1-21/2021-01-02.pdf'>[Link]</a><br>
+<br>
 
 <h2><font face='Times New Roman'>2016-2020</font></h2>
 
@@ -703,6 +704,7 @@ Yuesheng Xu, <strong>Qingsong Zou</strong><br>
 <strong>Qingsong Zou</strong>, Yonghai Li.<br>
 <i></i> (2002 Jan.)
 <a href=''>[Link]</a><br>
+<br>
 
 <h2><font face='Times New Roman'>1995-2000</font></h2>
 
