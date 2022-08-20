@@ -22,7 +22,7 @@ In this paper, we have developed a Hodgkin-Huxley (HH) -type triple-gate model f
 
 ## Recommended Citation
 
-> Y. Zhang and Q. Zou, "A Novel Triple-gate Model for Mechanosensitive Ion Channel Piezo1," *2022 10th International Conference on Bioinformatics and Computational Biology (ICBCB)*, 2022, pp. 135-141, doi: 10.1109/ICBCB55259.2022.9802499.
+* Y. Zhang and Q. Zou, "A Novel Triple-gate Model for Mechanosensitive Ion Channel Piezo1," *2022 10th International Conference on Bioinformatics and Computational Biology (ICBCB)*, 2022, pp. 135-141, doi: 10.1109/ICBCB55259.2022.9802499.
 
 ### BibTeX
 ```bibtex

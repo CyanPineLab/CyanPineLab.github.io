@@ -21,7 +21,7 @@ In this paper, we develop a multi-scale model to simulate the aggregation of pla
 
 ## Recommended Citation
 
-> Xu, Z., Zou, Q. (2022). A Molecular Dynamics Based Multi-scale Platelet Aggregation Model and Its High-Throughput Simulation. In: , *et al*. Parallel and Distributed Computing, Applications and Technologies. PDCAT 2021. Lecture Notes in Computer Science(), vol 13148. Springer, Cham. https://doi.org/10.1007/978-3-030-96772-7_8
+* Xu, Z., Zou, Q. (2022). A Molecular Dynamics Based Multi-scale Platelet Aggregation Model and Its High-Throughput Simulation. In: , *et al*. Parallel and Distributed Computing, Applications and Technologies. PDCAT 2021. Lecture Notes in Computer Science(), vol 13148. Springer, Cham. https://doi.org/10.1007/978-3-030-96772-7_8
 
 ### BibTeX
 ```bibtex

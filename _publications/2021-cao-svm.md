@@ -22,7 +22,7 @@ This paper is concerned with the analysis of two spectral volume (SV) methods fo
 
 ## Recommended Citation
 
-> Cao, W., Zou, Q. Analysis of Spectral Volume Methods for 1D Linear Scalar Hyperbolic Equations. *J Sci Comput* 90, 61 (2022). https://doi.org/10.1007/s10915-021-01715-5
+* Cao, W., Zou, Q. Analysis of Spectral Volume Methods for 1D Linear Scalar Hyperbolic Equations. *J Sci Comput* 90, 61 (2022). https://doi.org/10.1007/s10915-021-01715-5
 
 ### BibTeX
 ```bibtex

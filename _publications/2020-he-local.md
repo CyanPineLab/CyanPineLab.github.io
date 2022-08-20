@@ -21,7 +21,7 @@ Local superconvergence properties of the post-processed finite volume element me
 
 ## Recommended Citation
 
-He, W., Zhang, Z. & Zou, Q. Local superconvergence of post-processed high-order finite volume element solutions. *Adv Comput Math* 46, 60 (2020). https://doi.org/10.1007/s10444-020-09801-2.
+* He, W., Zhang, Z. & Zou, Q. Local superconvergence of post-processed high-order finite volume element solutions. *Adv Comput Math* 46, 60 (2020). https://doi.org/10.1007/s10444-020-09801-2.
 
 ### bibtex
 ```
