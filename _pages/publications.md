@@ -36,18 +36,73 @@ Kai Liu, <strong>Qingsong Zou</strong>, Zhipeng Xu, Zhijun Tan.<br>
 <a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
 <br>
 
-<a href='/publication/样例'>
+<a href='/publication/file'>
   <strong>
-    测试.
+    Deep Neural Networks Based Temporal-Difference Methods for High-Dimensional Parabolic Partial Differential Equations.
   </strong>
 </a>
 <br>
-Test, <strong>Qingsong Zou</strong>.<br>
-<i>Test.</i> (2022 x.)
-<a href=>[Link]</a><br>
+Shaojie Zeng, Yihua Cai, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Computational Physics.</i> (2022 Jul.)
+<a href='https://www.sciencedirect.com/science/article/pii/S0021999122005654'>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    A Novel Triple-gate Model for Mechanosensitive Ion Channel Piezo1.
+  </strong>
+</a>
+<br>
+Yu Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>2022 10th International Conference on Bioinformatics and Computational Biology (ICBCB).</i> (2022 May)
+<a href='https://ieeexplore.ieee.org/abstract/document/9802499'>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    Adaptive deep neural networks methods for high-dimensional partial differential equations.
+  </strong>
+</a>
+<br>
+Shaojie Zeng, Zong Zhang, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Computational Physics.</i> (2022 Apr.)
+<a href='https://www.sciencedirect.com/science/article/pii/S0021999122002947#!'>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    A Molecular Dynamics Based Multi-scale Platelet Aggregation Model and Its High-Throughput Simulation.
+  </strong>
+</a>
+<br>
+Zhipeng Xu, <strong>Qingsong Zou</strong>.<br>
+<i>Lecture Notes in Computer Science.</i> (2022 Mar.)
+<a href='https://link.springer.com/chapter/10.1007/978-3-030-96772-7_8'>[Link]</a><br>
 <br>
 
 <h2><font face='Times New Roman'>2021</font></h2>
+
+<a href='/publication/file'>
+  <strong>
+    Analysis of Spectral Volume Methods for 1D Linear Scalar Hyperbolic Equations.
+  </strong>
+</a>
+<br>
+Waixiang Cao, <strong>Qingsong Zou</strong>.<br>
+<i>Journal of Scientific Computing.</i> (2021 Dec.)
+<a href='https://link.springer.com/article/10.1007/s10915-021-01715-5'>[Link]</a><br>
+<br>
+
+<a href='/publication/file'>
+  <strong>
+    An Adaptive Time Stepping Algorithm and Its Application to Platelet Aggregation Simulation.
+  </strong>
+</a>
+<br>
+Weicai Ye, Hao Wu, Zhijun Tan, <strong>Qingsong Zou</strong>.<br>
+<i>2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom).</i> (2021 Sept.)
+<a href='https://ieeexplore.ieee.org/document/9644767'>[Link]</a><br>
+<br>
 
 <a href='/publication/2021-wu-finite'>
   <strong>
