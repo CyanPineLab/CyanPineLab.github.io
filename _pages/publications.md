@@ -23,6 +23,30 @@ A, <strong>Qingsong Zou</strong>.<br>
 
 <font face='Times New Roman'>
 
+<h2><font face='Times New Roman'>2022</font></h2>
+
+<a href='/publication/file'>
+  <strong>
+  The Dynamics of Suspended Rough Platelets in Shear Flows with Different Reynolds Numbers.
+  </strong>
+</a>
+<br>
+Kai Liu, <strong>Qingsong Zou</strong>, Zhipeng Xu, Zhijun Tan.<br>
+<i>East Asian Journal on Applied Mathematics.</i> (2022 Aug.)
+<a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
+<br>
+
+<a href='/publication/样例'>
+  <strong>
+    测试.
+  </strong>
+</a>
+<br>
+Test, <strong>Qingsong Zou</strong>.<br>
+<i>Test.</i> (2022 x.)
+<a href=>[Link]</a><br>
+<br>
+
 <h2><font face='Times New Roman'>2021</font></h2>
 
 <a href='/publication/2021-wu-finite'>
