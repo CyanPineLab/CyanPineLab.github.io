@@ -26,94 +26,94 @@ A, <strong>Qingsong Zou</strong>.<br>
 <h2><font face='Times New Roman'>2022</font></h2>
 
 Minqiang Xu, Runchang Lin, <strong>Qingsong Zou</strong>.<br>
-<a href='/publication/2022-liu-dynamics'>
+<a href='/publication/2022-xu-c0'>
   <strong>
   A C0 linear finite element method for a second-order elliptic equation in non-divergence form with Cordes coefficients. 
   </strong>
 </a>
 <br>
 <i>Numerical Methods for Partial Differential Equations,</i> (2022 Oct.)
-<a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
+<a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/num.22965'>[Link]</a><br>
 <br>
 
 Yanhui Zhou, Ying Jiang, <strong>Qingsong Zou</strong>.<br>
-<a href='/publication/2022-liu-dynamics'>
+<a href='/publication/2022-zhou-three'>
   <strong>
   Three dimensional high order finite volume element schemes for elliptic equations. 
   </strong>
 </a>
 <br>
 <i>Numerical Methods for Partial Differential Equations,</i> (2022 Spet.)
-<a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
+<a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/num.22950'>[Link]</a><br>
 <br>
 
+Kai Liu, <strong>Qingsong Zou</strong>, Zhipeng Xu, Zhijun Tan.<br>
 <a href='/publication/2022-liu-dynamics'>
   <strong>
   The Dynamics of Suspended Rough Platelets in Shear Flows with Different Reynolds Numbers.
   </strong>
 </a>
 <br>
-Kai Liu, <strong>Qingsong Zou</strong>, Zhipeng Xu, Zhijun Tan.<br>
-<i>East Asian Journal on Applied Mathematics.</i> (2022 Aug.)
+<i>East Asian Journal on Applied Mathematics, 12(3): 599-616,</i> (2022 Aug.)
 <a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
 <br>
 
+Shaojie Zeng, Yihua Cai, <strong>Qingsong Zou</strong>.<br>
 <a href='/publication/2022-zeng-dbtdm'>
   <strong>
     Deep Neural Networks Based Temporal-Difference Methods for High-Dimensional Parabolic Partial Differential Equations.
   </strong>
 </a>
 <br>
-Shaojie Zeng, Yihua Cai, <strong>Qingsong Zou</strong>.<br>
-<i>Journal of Computational Physics.</i> (2022 Jul.)
+<i>Journal of Computational Physics, 468: 111503,</i> (2022 Jul.)
 <a href='https://www.sciencedirect.com/science/article/pii/S0021999122005654'>[Link]</a><br>
 <br>
 
+Yu Zhang, <strong>Qingsong Zou</strong>.<br>
 <a href='/publication/2022-zhang-novel'>
   <strong>
     A Novel Triple-gate Model for Mechanosensitive Ion Channel Piezo1.
   </strong>
 </a>
 <br>
-Yu Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>2022 10th International Conference on Bioinformatics and Computational Biology (ICBCB).</i> (2022 May)
+<i>2022 10th International Conference on Bioinformatics and Computational Biology (ICBCB), pages 135-141,</i> (2022 May)
 <a href='https://ieeexplore.ieee.org/abstract/document/9802499'>[Link]</a><br>
 <br>
 
+Shaojie Zeng, Zong Zhang, <strong>Qingsong Zou</strong>.<br>
 <a href='/publication/2022-zeng-adn'>
   <strong>
     Adaptive deep neural networks methods for high-dimensional partial differential equations.
   </strong>
 </a>
 <br>
-Shaojie Zeng, Zong Zhang, <strong>Qingsong Zou</strong>.<br>
-<i>Journal of Computational Physics.</i> (2022 Apr.)
+<i>Journal of Computational Physics, 463: 111232,</i> (2022 Apr.)
 <a href='https://www.sciencedirect.com/science/article/pii/S0021999122002947#!'>[Link]</a><br>
 <br>
 
+Zhipeng Xu, <strong>Qingsong Zou</strong>.<br>
 <a href='/publication/2022-xu-molecular'>
   <strong>
     A Molecular Dynamics Based Multi-scale Platelet Aggregation Model and Its High-Throughput Simulation.
   </strong>
 </a>
 <br>
-Zhipeng Xu, <strong>Qingsong Zou</strong>.<br>
-<i>Lecture Notes in Computer Science.</i> (2022 Mar.)
+<i>Lecture Notes in Computer Science, pages 81-92,</i> (2022 Mar.)
 <a href='https://link.springer.com/chapter/10.1007/978-3-030-96772-7_8'>[Link]</a><br>
 <br>
 
-<h2><font face='Times New Roman'>2021</font></h2>
-
+Waixiang Cao, <strong>Qingsong Zou</strong>.<br>
 <a href='/publication/2021-cao-svm'>
   <strong>
     Analysis of Spectral Volume Methods for 1D Linear Scalar Hyperbolic Equations.
   </strong>
 </a>
 <br>
-Waixiang Cao, <strong>Qingsong Zou</strong>.<br>
-<i>Journal of Scientific Computing.</i> (2021 Dec.)
+<i>Journal of Scientific Computing, 90(1): 1-29,</i> (2021 Dec.)
 <a href='https://link.springer.com/article/10.1007/s10915-021-01715-5'>[Link]</a><br>
 <br>
+
+<h2><font face='Times New Roman'>2021</font></h2>
 
 <a href='/publication/2021-ye-adaptive'>
   <strong>
