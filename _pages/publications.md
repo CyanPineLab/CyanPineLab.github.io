@@ -25,6 +25,28 @@ A, <strong>Qingsong Zou</strong>.<br>
 
 <h2><font face='Times New Roman'>2022</font></h2>
 
+Minqiang Xu, Runchang Lin, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2022-liu-dynamics'>
+  <strong>
+  A C0 linear finite element method for a second-order elliptic equation in non-divergence form with Cordes coefficients. 
+  </strong>
+</a>
+<br>
+<i>Numerical Methods for Partial Differential Equations,</i> (2022 Oct.)
+<a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
+<br>
+
+Yanhui Zhou, Ying Jiang, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2022-liu-dynamics'>
+  <strong>
+  Three dimensional high order finite volume element schemes for elliptic equations. 
+  </strong>
+</a>
+<br>
+<i>Numerical Methods for Partial Differential Equations,</i> (2022 Spet.)
+<a href='https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20409'>[Link]</a><br>
+<br>
+
 <a href='/publication/2022-liu-dynamics'>
   <strong>
   The Dynamics of Suspended Rough Platelets in Shear Flows with Different Reynolds Numbers.
