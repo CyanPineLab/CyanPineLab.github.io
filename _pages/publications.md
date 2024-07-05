@@ -23,6 +23,87 @@ A, <strong>Qingsong Zou</strong>.<br>
 
 <font face='Times New Roman'>
 
+<h2><font face='Times New Roman'>2024</font></h2>
+
+Xingyu Chen, Jianhuan Cen, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2024-chen-ats'>
+  <strong>
+  Adaptive trajectories sampling for solving PDEs with deep learning methods. 
+  </strong>
+</a>
+<br>
+<i>Applied Mathematics and Computation,</i> (2024 Jul.)
+<a href='https://arxiv.org/abs/2303.15704'>[Link]</a><br>
+<br>
+
+Ping Wei, Menghan Liu, Jianhuan Cen, Ziyang Zhou, Liao Chen, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2024-wei-pdenneval'>
+  <strong>
+  PDENNEval: A Comprehensive Evaluation of Neural Network Methods for Solving PDEs. 
+  </strong>
+</a>
+<br>
+<i>International Joint Conference on Artificial Intelligence (IJCAI 2024),</i> (2024 Jun.)
+<a href='https://ijcai24.org/main-track-accepted-papers/'>[Link]</a><br>
+<br>
+
+Xiuyu Jiang, Liqin Tan, Jianhuan Cen, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2024-jiang-molbench'>
+  <strong>
+  MolBench: A Benchmark of AI Models for Molecular Property Prediction. 
+  </strong>
+</a>
+<br>
+<i>Benchmarking, Measuring, and Optimizing (Bench 2023),</i> (2024 Feb.)
+<a href='https://link.springer.com/chapter/10.1007/978-981-97-0316-6_4'>[Link]</a><br>
+<br>
+
+<h2><font face='Times New Roman'>2023</font></h2>
+
+Minqiang Xu, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2023-xu-hessian'>
+  <strong>
+  A Hessian Recovery Based Linear Finite Element Method for Molecular Beam Epitaxy Growth Model with Slope Selection. 
+  </strong>
+</a>
+<br>
+<i>Advances in Applied Mathematics and Mechanics,</i> (2023 Dec.)
+<a href='https://global-sci.org/intro/article_detail/aamm/22287.html'>[Link]</a><br>
+<br>
+
+Minqiang Xu, Yanting Yuan, Waixiang Cao, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2023-xu-analysis'>
+  <strong>
+  Analysis of Two Any Order Spectral Volume Methods for 1-D Linear Hyperbolic Equations with Degenerate Variable Coefficients. 
+  </strong>
+</a>
+<br>
+<i>Journal of Computational Mathematics,</i> (2023 Nov.)
+<a href='https://www.global-sci.org/intro/online/read?online_id=2132'>[Link]</a><br>
+<br>
+
+Ping Wei, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2023-wei-analysis'>
+  <strong>
+  Analysis of two fully discrete spectral volume schemes for hyperbolic equations. 
+  </strong>
+</a>
+<br>
+<i>Numerical Methods for Partial Differential Equations,</i> (2023 Sept.)
+<a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/num.23072'>[Link]</a><br>
+<br>
+
+Wentao Zhang, Yujun Huang, Tong Zhang, <strong>Qingsong Zou</strong>, Wei-Shi Zheng, Ruixuan Wang.
+<a href='/publication/2023-zhang-adapter'>
+  <strong>
+  Adapter Learning in Pretrained Feature Extractor for Continual Learning of Diseases. 
+  </strong>
+</a>
+<br>
+<i>Medical Image Computing and Computer Assisted Intervention – MICCAI 2023,</i> (2023 Oct.)
+<a href='https://link.springer.com/chapter/10.1007/978-3-031-43895-0_7'>[Link]</a><br>
+<br>
+
 <h2><font face='Times New Roman'>2022</font></h2>
 
 Minqiang Xu, Runchang Lin, <strong>Qingsong Zou</strong>.<br>
@@ -43,7 +124,7 @@ Yanhui Zhou, Ying Jiang, <strong>Qingsong Zou</strong>.<br>
   </strong>
 </a>
 <br>
-<i>Numerical Methods for Partial Differential Equations,</i> (2022 Spet.)
+<i>Numerical Methods for Partial Differential Equations,</i> (2022 Sept.)
 <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/num.22950'>[Link]</a><br>
 <br>
 
