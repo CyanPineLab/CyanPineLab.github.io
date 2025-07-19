@@ -25,6 +25,28 @@ A, <strong>Qingsong Zou</strong>.<br>
 
 <h2><font face='Times New Roman'>2024</font></h2>
 
+Xiuyu Jiang, Liqin Tan, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2024-jiang-dgcl'>
+  <strong>
+  DGCL: dual-graph neural networks contrastive learning for molecular property prediction. 
+  </strong>
+</a>
+<br>
+<i>Briefings in Bioinformatics,</i> (2024 Nov.)
+<a href='https://academic.oup.com/bib/article/25/6/bbae474/7779242'>[Link]</a><br>
+<br>
+
+Jianhuan Cen, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2024-cen-dfvm'>
+  <strong>
+  Deep finite volume method for partial differential equations. 
+  </strong>
+</a>
+<br>
+<i>Journal of Computational Physics,</i> (2024 Jul.)
+<a href='https://www.sciencedirect.com/science/article/pii/S0021999124005552'>[Link]</a><br>
+<br>
+
 Xingyu Chen, Jianhuan Cen, <strong>Qingsong Zou</strong>.<br>
 <a href='/publication/2024-chen-ats'>
   <strong>
@@ -33,7 +55,7 @@ Xingyu Chen, Jianhuan Cen, <strong>Qingsong Zou</strong>.<br>
 </a>
 <br>
 <i>Applied Mathematics and Computation,</i> (2024 Jul.)
-<a href='https://arxiv.org/abs/2303.15704'>[Link]</a><br>
+<a href='https://www.sciencedirect.com/science/article/pii/S0096300324003898'>[Link]</a><br>
 <br>
 
 Ping Wei, Menghan Liu, Jianhuan Cen, Ziyang Zhou, Liao Chen, <strong>Qingsong Zou</strong>.<br>
@@ -44,7 +66,7 @@ Ping Wei, Menghan Liu, Jianhuan Cen, Ziyang Zhou, Liao Chen, <strong>Qingsong Zo
 </a>
 <br>
 <i>International Joint Conference on Artificial Intelligence (IJCAI 2024),</i> (2024 Jun.)
-<a href='https://ijcai24.org/main-track-accepted-papers/'>[Link]</a><br>
+<a href='https://www.ijcai.org/proceedings/2024/573'>[Link]</a><br>
 <br>
 
 Xiuyu Jiang, Liqin Tan, Jianhuan Cen, <strong>Qingsong Zou</strong>.<br>
