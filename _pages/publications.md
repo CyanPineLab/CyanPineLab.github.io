@@ -23,6 +23,107 @@ A, <strong>Qingsong Zou</strong>.<br>
 
 <font face='Times New Roman'>
 
+<h2><font face='Times New Roman'>2025</font></h2>
+
+Wenbo Gong, Waixiang Cao, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-gong-deriving'>
+  <strong>
+  Deriving Locally Conservative Fluxes From High‐Order Finite Element Solutions by Solving a Constrained Minimization Problem.
+  </strong>
+</a>
+<br>
+<i>Numerical Methods for Partial Differential Equations, 41(5): e70035,</i> (2025)
+<a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/num.70035'>[Link]</a><br>
+<br>
+
+Ziyang Zhou, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-zhou-tip'>
+  <strong>
+  Tip-Adapter-SA: Training-Free CLIP-Adapter Enhanced by Semantic Alignment for Multi-Label Few-Shot Classification with Single Positive Labels.
+  </strong>
+</a>
+<br>
+<i>2025 IEEE 5th International Conference on Computer Communication and Artificial Intelligence (CCAI),</i> (2025)
+<a href='https://ieeexplore.ieee.org/document/11189294'>[Link]</a><br>
+<br>
+
+Menghan Liu, Jianhuan Cen, Ziyang Zhou, et al. (including <strong>Qingsong Zou</strong>).<br>
+<a href='/publication/2025-liu-cfdoneval'>
+  <strong>
+  CFDONEval: a comprehensive evaluation of operator-learning neural network models for computational fluid dynamics.
+  </strong>
+</a>
+<br>
+<i>Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-25),</i> (2025)
+<a href='https://www.ijcai.org/proceedings/2025/640'>[Link]</a><br>
+<br>
+
+Xiean Wang, Pin Chen, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-wang-nodata'>
+  <strong>
+  No-Data-Driven Crystal Structure Prediction via Model-Free Reinforcement Learning.
+  </strong>
+</a>
+<br>
+<i>International Conference on Intelligent Computing (ICIC),</i> (2025)
+<a href='https://link.springer.com/chapter/10.1007/978-981-96-9815-8_26'>[Link]</a><br>
+<br>
+
+Liao Chen, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-chen-ppfnet'>
+  <strong>
+  PPFNet: A Parameter-Guided Operator Network for Solving Phase Field Equations.
+  </strong>
+</a>
+<br>
+<i>International Conference on Intelligent Computing (ICIC),</i> (2025)
+<a href='https://link.springer.com/chapter/10.1007/978-981-96-9894-3_27'>[Link]</a><br>
+<br>
+
+Waixiang Cao, Zhimin Zhang, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-cao-analysis'>
+  <strong>
+  Analysis of Arbitrary High Order Spectral Volume Method for Hyperbolic Conservation Laws Over Rectangular Meshes.
+  </strong>
+</a>
+<br>
+<i>Journal of Computational Mathematics,</i> (2025)
+<a href='https://global-sci.com/index.php/JCM/article/view/22894'>[Link]</a><br>
+<br>
+
+Xiean Wang, Pin Chen, Liqin Tan, Yutong Lu, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-wang-fusion'>
+  <strong>
+  FUSION: Dataset Pruning via Fusing Uncertainty with Structural Information for Optimal Neural Training in Crystal Property Prediction.
+  </strong>
+</a>
+<br>
+<i>Proceedings of the AAAI Conference on Artificial Intelligence,</i> (2025 accepted)
+<a href=''>[Link]</a><br>
+<br>
+
+Guohang Peng, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-peng-ocean'>
+  <strong>
+  OceanNNEval: A Benchmark for Three-Dimensional Temperature and Salinity Reconstruction.
+  </strong>
+</a>
+<br>
+<i>Proceedings of Bench 2025,</i> (2025 accepted)
+<a href=''>[Link]</a><br>
+<br>
+
+Ping Wei, <strong>Qingsong Zou</strong>.<br>
+<a href='/publication/2025-wei-analysis'>
+  <strong>
+  Analysis of Any-Order Runge–Kutta Spectral Volume Schemes for 1D Hyperbolic Equations.
+  </strong>
+</a>
+<br>
+<i>International Journal of Numerical Analysis and Modeling,</i> (2025 accepted)
+<a href='https://arxiv.org/html/2409.13485v1'>[Link]</a><br>
+<br>
+
 <h2><font face='Times New Roman'>2024</font></h2>
 
 Xiuyu Jiang, Liqin Tan, <strong>Qingsong Zou</strong>.<br>
