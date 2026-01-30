@@ -26,3 +26,4 @@ Multi-label classification is a fundamental task that requires predicting all ap
   pages={1-8},
   keywords={Training;Learning systems;Image recognition;Image resolution;Annotations;Semantics;Multi label classification;Feature extraction;Few shot learning;Image classification;Multi-Label Classification;Few-Shot Learning;Image Recognition;Vision-Language Models},
   doi={10.1109/CCAI65422.2025.11189294}}
+```
